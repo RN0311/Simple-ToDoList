@@ -1,2 +1,2 @@
-# REACT-projects
-This repo contains codebase to my react DIY fun-projects ;))
+# Simple To-Do List
+Tech stack : React
